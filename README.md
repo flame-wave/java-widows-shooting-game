@@ -1,3 +1,3 @@
-#java-widows-shooting-game\n
-はじめに
-この大学内の講義にて、最終課題として作成したプログラムとなります。
+# java-widows-shooting-game
+## DEMO
+This game was created within a university lecture. Mainly this game is about subclasses and abstract classes, with the goal of copying the parameters of a class and using them in another object.

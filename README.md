@@ -8,3 +8,4 @@ You can shoot the sphere with the space key. Move to avoid hitting enemies to ma
 * Editor used：Cpad for java2 SDK  
 Perhaps you can start it without this editor.
 # Usage
+Save all Javafiles and combine them into one file. If you name the file [My game], it will work in the same environment.  

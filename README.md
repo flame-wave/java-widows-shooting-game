@@ -9,3 +9,5 @@ You can shoot the sphere with the space key. Move to avoid hitting enemies to ma
 Perhaps you can start it without this editor.
 # Usage
 Save all Javafiles and combine them into one file. If you name the file [My game], it will work in the same environment.  
+# How to operate
+The arrow keys can be used to move up, down, left, and right, and the space key can be used to fire bullets to defeat enemies.
